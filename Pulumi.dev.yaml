@@ -1,0 +1,3 @@
+config:
+  aws:region: us-east-1
+  iac-lab2-ec2:ec2_key_name: vibhs_us_east_1
